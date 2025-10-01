@@ -12,6 +12,24 @@ section {
     width: 500px;
 }
 
+
+footer {
+    margin-top: 100px;
+    padding-bottom: 50px;
+}
+
+.footer-link {
+    opacity: 75%;
+}
+
+.footer-link:hover {
+    opacity: 100%;
+}
+.copyright {
+    margin-top: 100px;
+    color: white;
+}
+
 @media (max-width:1024px) {
   .hero .col img {
     width: 400px;
@@ -58,4 +76,3 @@ section {
     }
 }
 
-img
